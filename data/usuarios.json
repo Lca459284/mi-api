@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Modifcado ",
+    "email": "carlos@gmail.com",
+    "rol": "editor",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "María Gómez",
+    "email": "mariaGomez@gmail.com",
+    "rol": "editor",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "carlos",
+    "email": "carlos@gmail.com",
+    "rol": "editor",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "juliana",
+    "email": "juliana@gmail.com",
+    "rol": "editor",
+    "activo": true
+  }
+]
